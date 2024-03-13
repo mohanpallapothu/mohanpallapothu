@@ -23,7 +23,6 @@ I’m looking to collaborate on interesting open-source projects or research.
 
 
 # 📊 GitHub Stats:
-   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![](https://github-readme-stats.vercel.app/api?username=mohanpallapothu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanpallapothu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
